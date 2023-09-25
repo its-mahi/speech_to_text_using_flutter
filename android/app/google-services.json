@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755600674475",
+    "project_id": "login-signup-sdp",
+    "storage_bucket": "login-signup-sdp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755600674475:android:f634f34df99965efc631ee",
+        "android_client_info": {
+          "package_name": "com.example.login_signup_speech_text"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATNRzMQMnP_h6yqAmsO6Sd035cnxp5IAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
